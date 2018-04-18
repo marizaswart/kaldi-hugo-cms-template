@@ -2,7 +2,7 @@
 title: Values
 type: values
 page: /values.html
-image: /img/products/jumbotron.jpg
+image: /img/blog-index.jpg
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
